@@ -1,7 +1,7 @@
 ### ❆ OOP-2023.1
  Willkommen in unserem Repositorium! Hier finden Sie die beantworteten Fragen aus den 2 vorgestellten Listen! Vielen Dank für Ihre Aufmerksamkeit!
   
-![02a635762c6328bc10850b805e0c8c69 (1)](https://user-images.githubusercontent.com/125154278/233788219-fad337a3-1fad-4705-a9a1-b25120b9645b.gif)
+![253cdb8fd6914819ea63f420716ef73a](https://user-images.githubusercontent.com/125154278/233788057-4cc8a2fc-277e-4e8c-9892-1fd6f7f06f17.gif)
 
 ### ❆ Objektorientierte Programmierung (2023.1)
 Lehrer: Roger Sarmento
