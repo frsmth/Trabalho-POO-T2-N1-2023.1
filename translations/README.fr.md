@@ -1,5 +1,5 @@
 ### ⚘ POO-2023.1
-Bienvenue dans notre référentiel ! Vous trouverez ici les réponses aux questions de la 2 liste présentée! Merci de votre attention!  
+Bienvenue dans notre référentiel ! Vous trouverez ici les réponses aux questions de la 2ème liste présentée! Merci de votre attention!  
 
 ![253cdb8fd6914819ea63f420716ef73a](https://user-images.githubusercontent.com/125154278/233788057-4cc8a2fc-277e-4e8c-9892-1fd6f7f06f17.gif)
 
