@@ -24,7 +24,7 @@ Entrega: 25/04/23
  
 ![d212ce4c95954faf7427fbe941a554f8](https://user-images.githubusercontent.com/125154278/233788172-e4f87a51-2187-46ac-82b2-0e4fcaf98272.gif)
  
- #### _ ❆ LEIA EM [OUTROS IDIOMAS](translations/Translations.md):_
+ #### _❆ LEIA EM [OUTROS IDIOMAS](translations/Translations.md):_
 <kbd>[<img title="Inglês" alt="Inglês" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/us.svg" width="22">](README.en.md)</kbd>
 <kbd>[<img title="Española" alt="Española" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](README.es.md)</kbd>
 <kbd>[<img title="Française" alt="Française" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](README.fr.md)</kbd>
