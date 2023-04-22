@@ -1,5 +1,7 @@
 #  ❆ Trabalho-POO-2023.1
- Bem-vindos novamente ao nosso repositório! Aqui você encontrará as questões respondidas da 2° lista apresentada! Agradecemos pela atenção! Adiante, você poderá ler este README em outras línguas 🇺🇲🇪🇸🇫🇷🇩🇪!
+ Bem-vindos novamente ao nosso repositório! Aqui você encontrará as questões respondidas da 2° lista apresentada! Agradecemos pela atenção!
+
+Adiante, você poderá ler este README em outras línguas 🇺🇲🇪🇸🇫🇷🇩🇪!
  
 ![253cdb8fd6914819ea63f420716ef73a](https://user-images.githubusercontent.com/125154278/233788057-4cc8a2fc-277e-4e8c-9892-1fd6f7f06f17.gif)
  
