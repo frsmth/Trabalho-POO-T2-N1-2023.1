@@ -1,5 +1,7 @@
-<h3 align = center> Aqui se encontra a Lista de Questões Propostas Resolvidas sem algoritmo <h3 align = center>
+<h3 align = center> Aqui se encontra a Lista de Questões Propostas Resolvidas sem algoritmo: <h3 align = center>
 
+  ![6d71e24e6d6ef7bf33b36637c0c117c2](https://user-images.githubusercontent.com/125154278/233858500-bd6320b3-2ca2-4bab-82e6-e7d521a1aefe.gif)
+  
 | Questão | Enunciado |
 | --- | --- |
 | 06 | ![image](https://user-images.githubusercontent.com/128996657/233857236-08530853-5b96-4812-937f-721899761b49.png) |
